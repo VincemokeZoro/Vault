@@ -1,0 +1,7 @@
+vault.db
+__pycache__/
+*.pyc
+build/
+dist/
+backups/
+main.spec
