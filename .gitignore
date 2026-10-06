@@ -5,3 +5,5 @@ build/
 dist/
 backups/
 main.spec
+main_backup.py
+vault_backup.db
